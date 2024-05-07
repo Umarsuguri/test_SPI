@@ -1,0 +1,8 @@
+freertos.c:101:6:HAL_UART_RxCpltCallback	1
+freertos.c:106:6:HAL_UART_TxCpltCallback	1
+freertos.c:111:6:HAL_SPI_RxCpltCallback	1
+freertos.c:116:6:HAL_SPI_TxCpltCallback	1
+freertos.c:135:6:MX_FREERTOS_Init	1
+freertos.c:196:6:StartDefaultTask	1
+freertos.c:214:6:UART_communication	3
+freertos.c:249:6:SPI_communication	3
